@@ -8,7 +8,7 @@ export const About = () =>
         <h2 className="container-title"> 
             Here are thr Intersting facts
             <br/>
-            we are Proud of
+             we are Proud of
         </h2>
 
         <div className="gradient-cards">
@@ -43,4 +43,5 @@ export const About = () =>
         </section>
 
     };
+
 
